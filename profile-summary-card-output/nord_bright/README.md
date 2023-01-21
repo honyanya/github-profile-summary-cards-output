@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/honyanya/github-profile-summary-cards-output/main/profile-summary-card-output/nord_bright/4-productive-time.svg)
+```
+
+    
